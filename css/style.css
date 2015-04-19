@@ -216,9 +216,12 @@ ul.nav{
 	letter-spacing: 3px;
 	margin-top: 18px;
 }
+#logo{
+	padding: 5%;
+}
 .banner-bottom{
 	text-align:center;
-	margin-top: 22%;
+	margin-top: 5%;
 }
 /*--start-awesome-bottom--*/
 .awesome-left h3,.awesome-bottom-right h3,.feature-top h3,.get-main h3,.talk-top h3{

@@ -23,9 +23,6 @@ body a{
 #mc_embed_signup{
 	background-color: transparent;
 }
-#mc-embed-subscribe{
-	border-radius: 20%;
-}
 .wrap{
 	width:70%;
 	margin:0 auto;
@@ -331,7 +328,6 @@ ul.nav{
 	padding: 2.5em 0em;
 	-webkit-appearance: none;
 	border: none;
-	border-radius: 20%;
 	outline: none;
 	cursor: pointer;
 	width: 273px;
